@@ -30,7 +30,9 @@ This project analyzes student performance using **Python** and **Pandas**. It re
 pip install pandas
 python student_analysis.py
 ```
+## 📷 Sample Output
 
+![Program Output](output.png)
 ## 📌 Learning Objectives
 
 This project was created to practice fundamental Pandas concepts, including:
